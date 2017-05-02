@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////
 //
-//  EEPROM.cpp// update a float (32 bits) - EEPROM Library for Arduino
+//  EEPROM.cpp - EEPROM Library for Arduino
 //  Copyright (c) 2012, 2017 Roger A. Krupski <rakrupski@verizon.net>
 //
 //  Last update: 02 May 2017
